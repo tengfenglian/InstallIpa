@@ -1,3 +1,5 @@
+> [iOS itms-services url scheme](https://blog.csdn.net/u013592067/article/details/90640182)
+
 iOS使用`itms-services`协议来分发开发者打的ipa安装包，主要是企业开发账号分发及非企业开发账号测试阶段分发给测试人员的安装包。（[蒲公英](https://www.pgyer.com/)、[fir.im](https://fir.im) 正是使用这个协议来分发安装包的）
 
 现在需要准备以下所需要的材料
